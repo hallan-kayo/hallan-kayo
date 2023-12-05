@@ -41,10 +41,10 @@
 
 <div style="display: inline_block">
     <a href="https://github.com/hallan-kayo" title="Perfil do Halan">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=hallan-kayo&theme=dracula&show_icons=true" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hallan-kayo&hide=python,powershell,batchfile&theme=dracula" />
     </a>
     <a href="https://github.com/hallan-kayo" title="Perfil do Halan">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hallan-kayo&hide=python,powershell,batchfile&theme=dracula" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=hallan-kayo&theme=dracula&show_icons=true" />
     </a>
 </div>
 
