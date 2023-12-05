@@ -1,4 +1,4 @@
-<h2>Halan Caio Pereira do Nascimento</h2>
+<h2>Olá, me chamo Halan!✨🙋‍♂️</h2>
 <h3>Sobre mim</h3>
 
 - 💼 Desenvolvedor **Backend**
@@ -39,7 +39,7 @@
 </div>
 <br/>
 
-<div style="display: inline_block">
+<div align=center style="display: inline_block">
     <a href="https://github.com/hallan-kayo" title="Perfil do Halan">
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hallan-kayo&hide=python,powershell,batchfile&theme=dracula" />
     </a>
