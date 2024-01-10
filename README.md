@@ -27,7 +27,6 @@
 
 ![Spring](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![DesignPatterns](https://img.shields.io/badge/Design%20Patterns-dd7476?style=for-the-badge&logo=openjdk&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 
 </div>
